@@ -32,3 +32,8 @@ console.log(height_int, typeof(height_int));
 
 var height_float = parseFloat(height);
 console.log(height_float, typeof(height_float));
+
+/*  따옴표는  \'를 쓴다. 
+ 쌍따옴표는 \" 를 쓴다. 
+ 문자를 쓰고 싶을 때는 \\를 쓴다. 
+ 줄바꿈은 \n 을 쓴다. */
