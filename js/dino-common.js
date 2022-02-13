@@ -22,3 +22,13 @@ var a="I", b="am", c="genius";
 console.log(a);
 console.log(b);
 console.log(c);
+
+
+var height = "160.4";
+console.log(height, typeof(height));
+
+var height_int = parseInt(height);
+console.log(height_int, typeof(height_int));
+
+var height_float = parseFloat(height);
+console.log(height_float, typeof(height_float));
